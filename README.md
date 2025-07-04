@@ -73,7 +73,7 @@ This script combines **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn** to p
 
 **Use Case**: Learn how to generate, analyze, and visualize data using Python's most popular libraries for data science.
 ---
-# Student Performance Prediction 🎓
+# NP-SK-PD.py 🎓
 
 This project demonstrates a simple machine learning model to predict student pass/fail status based on their English 🇬🇧 and Science 🔬 scores.
 
