@@ -48,6 +48,31 @@ A visual guide to **Seaborn**, a Python visualization library built on top of Ma
 **Use Case**: Creating visually appealing statistical graphics to better understand and present data.
 
 ---
+### 🧮 `SKLEARN.py`
+
+This script demonstrates a simple machine learning workflow using **Scikit-learn**. It applies **Linear Regression** to predict students' Math scores based on their English and Science scores.
+
+#### 🔹 Features:
+- Generates synthetic student data
+- Splits data into training and testing sets
+- Trains a Linear Regression model
+- Evaluates performance using Mean Squared Error (MSE)
+- Prints predicted vs actual Math scores
+
+**Use Case**: Learn how to build, train, and evaluate a basic regression model using Scikit-learn.
+---
+### 📊 `NP-PD-SNS.py`
+
+This script combines **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn** to perform basic data generation, analysis, and visualization of student scores.
+
+#### 🔹 Features:
+- Generates random scores for Math, English, and Science
+- Creates a DataFrame and performs basic statistical analysis
+- Plots line graphs of student scores using Matplotlib
+- Displays subject-wise score distributions using Seaborn boxplots
+
+**Use Case**: Learn how to generate, analyze, and visualize data using Python's most popular libraries for data science.
+---
 
 ## 🧰 How to Use
 
