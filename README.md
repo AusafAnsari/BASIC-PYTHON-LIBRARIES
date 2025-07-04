@@ -89,3 +89,13 @@ Intern at DoxPro Robotics | AI/ML Enthusiast | Exploring Python for Data Science
 ## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+---
+![image](https://github.com/user-attachments/assets/d6ff1d20-2d6f-4663-a084-822a869daf44)
+---
+![image](https://github.com/user-attachments/assets/a6cf78ab-a747-4a1a-aafc-37e062ae8a30)
+---
+![image](https://github.com/user-attachments/assets/bee5548e-9d08-415f-8aa9-13ffa8608ca1)
+--
+
+
