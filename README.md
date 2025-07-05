@@ -17,7 +17,7 @@ A basic introduction to **NumPy**, the core library for numerical computing in P
 - Basic mathematical functions and aggregations
 
 **Use Case**: Efficient numerical operations, data preprocessing, and matrix computations.
-
+![image](https://github.com/user-attachments/assets/d6ff1d20-2d6f-4663-a084-822a869daf44)
 ---
 
 ### 📊 `PANDAS.py`
@@ -131,8 +131,6 @@ Intern at DoxPro Robotics | AI/ML Enthusiast | Exploring Python for Data Science
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
-![image](https://github.com/user-attachments/assets/d6ff1d20-2d6f-4663-a084-822a869daf44)
 ---
 ![image](https://github.com/user-attachments/assets/a6cf78ab-a747-4a1a-aafc-37e062ae8a30)
 ---
