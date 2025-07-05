@@ -61,7 +61,7 @@ This script demonstrates a simple machine learning workflow using **Scikit-learn
 
 **Use Case**: Learn how to build, train, and evaluate a basic regression model using Scikit-learn.
 ---
-### 📊 `LINEAR REGGRESSION`
+### 📊 `𝗟𝗜𝗡𝗘𝗔𝗥 𝗥𝗘𝗚𝗚𝗥𝗘𝗦𝗦𝗜𝗢𝗡`
 
 This script combines **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn** to perform basic data generation, analysis, and visualization of student scores.
 
