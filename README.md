@@ -103,6 +103,8 @@ This script demonstrates the use of **DecisionTreeClassifier** from Scikit-learn
 - Evaluates the model using a confusion matrix
 
 **Use Case**: Understand how classification results are assessed using confusion matrices in supervised learning.
+![image](https://github.com/user-attachments/assets/6c4dbb62-3d9b-4b96-b44d-b95b5382abdf)
+
 ---
 ### 🌲 `RANDOM-FOREST.py`
 
