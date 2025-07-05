@@ -104,7 +104,20 @@ This script demonstrates the use of **DecisionTreeClassifier** from Scikit-learn
 
 **Use Case**: Understand how classification results are assessed using confusion matrices in supervised learning.
 ---
+### 🌲 `RANDOM-FOREST.py`
 
+This script compares the performance of a **Decision Tree Classifier** and a **Random Forest Classifier** using a synthetic dataset of student scores.
+
+#### 🔹 Features:
+- Generates a dataset of 200 students with scores in Math, English, and Science
+- Creates a binary target variable for passing or failing based on Math scores
+- Trains and evaluates both Decision Tree and Random Forest classifiers
+- Displays accuracy and classification reports for both models
+
+**Use Case**: Understand the difference in performance between single decision trees and ensemble methods like Random Forest in binary classification tasks.
+![image](https://github.com/user-attachments/assets/6ded29ea-c44a-4172-89e5-9c29bb24756b)
+
+---
 ## 🧰 How to Use
 
 1. **Clone the repository:**
