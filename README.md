@@ -32,7 +32,7 @@ A practical walkthrough of **Pandas**, the go-to library for data manipulation a
 - Grouping and aggregation
 
 **Use Case**: Managing tabular data, cleaning datasets, and basic exploratory data analysis.
-
+![image](https://github.com/user-attachments/assets/a6cf78ab-a747-4a1a-aafc-37e062ae8a30)
 ---
 
 ### 📈 `SEABORN.py`
@@ -46,7 +46,7 @@ A visual guide to **Seaborn**, a Python visualization library built on top of Ma
 - Using built-in datasets for demonstration
 
 **Use Case**: Creating visually appealing statistical graphics to better understand and present data.
-
+![image](https://github.com/user-attachments/assets/bee5548e-9d08-415f-8aa9-13ffa8608ca1)
 ---
 ### 🧮 `SKLEARN.py`
 
@@ -131,10 +131,6 @@ Intern at DoxPro Robotics | AI/ML Enthusiast | Exploring Python for Data Science
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
-![image](https://github.com/user-attachments/assets/a6cf78ab-a747-4a1a-aafc-37e062ae8a30)
----
-![image](https://github.com/user-attachments/assets/bee5548e-9d08-415f-8aa9-13ffa8608ca1)
 ---
 ![image](https://github.com/user-attachments/assets/0aa46b26-a2e3-4dcd-9618-05b44c704f8d)
 ---
