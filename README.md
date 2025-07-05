@@ -73,7 +73,7 @@ This script combines **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn** to p
 
 **Use Case**: Learn how to generate, analyze, and visualize data using Python's most popular libraries for data science.
 ---
-#### LOGISTIC_REGRESSION🎓
+#### 𝗟𝗢𝗚𝗜𝗦𝗧𝗜𝗖 𝗥𝗘𝗚𝗥𝗘𝗦𝗦𝗜𝗢𝗡🎓
 
 This project demonstrates a simple machine learning model to predict student pass/fail status based on their English 🇬🇧 and Science 🔬 scores.
 
