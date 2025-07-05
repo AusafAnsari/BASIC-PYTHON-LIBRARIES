@@ -91,8 +91,20 @@ The `NP-SK-PD.py` script creates a synthetic dataset 🧪 of student scores, tra
 * **Model Evaluation:** Provides accuracy and a detailed classification report. 🎯
 * **Train-Test Split:** Splits data for robust model evaluation. ✂️
   ![image](https://github.com/user-attachments/assets/29f25d3c-b9fa-4b80-ac70-efb0fd7784c7)
----
   
+---
+### 🔍 `CONFUSION_MATRIX.py`
+
+This script demonstrates the use of **DecisionTreeClassifier** from Scikit-learn and how to compute a **confusion matrix** for evaluating a simple classification model.
+
+#### 🔹 Features:
+- Trains a Decision Tree on a small height-weight dataset
+- Classifies data into "Short" or "Tall" categories
+- Evaluates the model using a confusion matrix
+
+**Use Case**: Understand how classification results are assessed using confusion matrices in supervised learning.
+---
+
 ## 🧰 How to Use
 
 1. **Clone the repository:**
