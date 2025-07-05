@@ -73,8 +73,10 @@ This script combines **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn** to p
 - Displays subject-wise score distributions using Seaborn boxplots
 
 **Use Case**: Learn how to generate, analyze, and visualize data using Python's most popular libraries for data science.
+![image](https://github.com/user-attachments/assets/8c0f0986-1b87-4c6c-930c-3008858768bf)
+![image](https://github.com/user-attachments/assets/34849065-5748-479f-91e6-e8646230ea4b)
 ---
-#### 𝗟𝗢𝗚𝗜𝗦𝗧𝗜𝗖 𝗥𝗘𝗚𝗥𝗘𝗦𝗦𝗜𝗢𝗡🎓
+### 𝗟𝗢𝗚𝗜𝗦𝗧𝗜𝗖 𝗥𝗘𝗚𝗥𝗘𝗦𝗦𝗜𝗢𝗡🎓
 
 This project demonstrates a simple machine learning model to predict student pass/fail status based on their English 🇬🇧 and Science 🔬 scores.
 
@@ -88,7 +90,7 @@ The `NP-SK-PD.py` script creates a synthetic dataset 🧪 of student scores, tra
 * **Logistic Regression:** Uses `scikit-learn`'s Logistic Regression for binary classification. ✅
 * **Model Evaluation:** Provides accuracy and a detailed classification report. 🎯
 * **Train-Test Split:** Splits data for robust model evaluation. ✂️
-  
+  ![image](https://github.com/user-attachments/assets/29f25d3c-b9fa-4b80-ac70-efb0fd7784c7)
 ---
   
 ## 🧰 How to Use
@@ -132,11 +134,6 @@ Intern at DoxPro Robotics | AI/ML Enthusiast | Exploring Python for Data Science
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
-![image](https://github.com/user-attachments/assets/8c0f0986-1b87-4c6c-930c-3008858768bf)
-![image](https://github.com/user-attachments/assets/34849065-5748-479f-91e6-e8646230ea4b)
----
-![image](https://github.com/user-attachments/assets/29f25d3c-b9fa-4b80-ac70-efb0fd7784c7)
 ---
 
 
