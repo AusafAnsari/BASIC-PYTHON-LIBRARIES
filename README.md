@@ -60,6 +60,7 @@ This script demonstrates a simple machine learning workflow using **Scikit-learn
 - Prints predicted vs actual Math scores
 
 **Use Case**: Learn how to build, train, and evaluate a basic regression model using Scikit-learn.
+![image](https://github.com/user-attachments/assets/0aa46b26-a2e3-4dcd-9618-05b44c704f8d)
 ---
 ### 📊 `𝗟𝗜𝗡𝗘𝗔𝗥 𝗥𝗘𝗚𝗚𝗥𝗘𝗦𝗦𝗜𝗢𝗡`
 
@@ -131,8 +132,6 @@ Intern at DoxPro Robotics | AI/ML Enthusiast | Exploring Python for Data Science
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
-![image](https://github.com/user-attachments/assets/0aa46b26-a2e3-4dcd-9618-05b44c704f8d)
 ---
 ![image](https://github.com/user-attachments/assets/8c0f0986-1b87-4c6c-930c-3008858768bf)
 ![image](https://github.com/user-attachments/assets/34849065-5748-479f-91e6-e8646230ea4b)
